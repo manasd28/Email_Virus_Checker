@@ -1,5 +1,7 @@
 Email Virus Checker 
 ====================
+(Email Virus Checker) It uses IMAP (Internet Mail Access Protocol ) and Python v3 . Real Time Monitoring of new Mail and gets triggered to Extract all the links and attachments and Scans all the links and attachments and give you a status of Mail . If it found that mail contain any Malicious links or Attachments then ask for permission to delete and then delete automatically.
+
 
 [IMAP(Internet Mail Access Protocol)](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)
 =====================================
