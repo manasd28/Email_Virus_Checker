@@ -4,7 +4,7 @@ Email Virus Checker
 [IMAP(Internet Mail Access Protocol)](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)
 =====================================
 
-IMAP : Internet Message Access Protocol  is a standard email protocol that stores email messages on a mail server, but allows the end user to view and manipulate the messages as though they were stored locally on the end user's computing device(s). This allows users to organize messages into folders, have multiple client applications know which messages have been read, flag messages for urgency or follow-up and save draft messages on the server.
+<b>IMAP</b> : Internet Message Access Protocol  is a standard email protocol that stores email messages on a mail server, but allows the end user to view and manipulate the messages as though they were stored locally on the end user's computing device(s). This allows users to organize messages into folders, have multiple client applications know which messages have been read, flag messages for urgency or follow-up and save draft messages on the server.
 
 [VirusTotal](https://en.wikipedia.org/wiki/VirusTotal)
 ===================================
@@ -29,6 +29,6 @@ Generation of API_KEY
 6. run : IMAP_Connection [ gmail.id ] [ gmail.password ] [ API_KEY ]
 ```
 
-Now Your Server Start running for new Mails 
+<b><i>Now Your Server Start running for new Mails </b></i>
 
 
