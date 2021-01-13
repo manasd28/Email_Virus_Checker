@@ -20,13 +20,14 @@ Generation of API_KEY
 
  Ussage :
 ====================
-
+```
 1. Install Python3
 2. Install pip
 3. Install all the requirements using : pip install -r requirements.txt  
 4. Change Permission of IMAP_Connection.py : chmod a+x IMAP_Connection.py
 5. Change Gmail permission to allow less secure apps : ON
 6. run : IMAP_Connection [ gmail.id ] [ gmail.password ] [ API_KEY ]
+```
 
 Now Your Server Start running for new Mails 
 
