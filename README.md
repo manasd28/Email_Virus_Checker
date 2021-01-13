@@ -10,14 +10,14 @@ IMAP : Internet Message Access Protocol  is a standard email protocol that store
 
 VirusTotal : VirusTotal inspects items with over 70 antivirus scanners and URL/domain blacklisting services. For more information visit https://support.virustotal.com/hc/en-us/articles/115002126889-How-it-works
 
-[ Generation of API_KEY ]
+Generation of API_KEY 
 ========================
 
 1. Go To Virustotal Website . site : https://www.virustotal.com/gui/home/upload
 2. Signup on VirusTotal 
 3. You get your free public API_KEY.
 
-[ Ussage :]
+ Ussage :
 ====================
 
 1. Install Python3
